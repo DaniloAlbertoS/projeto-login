@@ -15,7 +15,7 @@ roxo azulado #0C14F2
 
 }
 html, body{
-    background-color: #3C00FF ;
+    background-color:#7d02ad ;
     height: 100vh;
     width: 100vw;
 
@@ -48,12 +48,25 @@ section >div#foto{
     display: block;
 
 }
+h1{
+    padding: 10px;
+    font-size: 30px;
+
+}
+
 section#login > div#formulario{
     padding: 10px;
     display: block;
+    
 }
 form{
     padding-top: 30px;
     
+    
+}
+input{
+    width: 80%;
+    padding: 4px;
+    margin: 5px;
     
 }
