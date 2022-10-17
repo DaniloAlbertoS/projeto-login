@@ -36,7 +36,9 @@ section#login{
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 20px;
-    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.747);
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.562);
+    transition: width 0.5s, height 0.5s;
+    transition-timing-function: ease;
 }
 section >div#foto{
     background:  #3C00FF url(../imagens/pexels-pixabay-459301\ \(1\).jpg) no-repeat;
@@ -49,4 +51,9 @@ section >div#foto{
 section#login > div#formulario{
     padding: 10px;
     display: block;
+}
+form{
+    padding-top: 30px;
+    
+    
 }
