@@ -8,6 +8,10 @@
         width: 80vw;
         height: 280px;
     }
+    div.campo > input{
+        width: 88%;
+         transform: translateY(-33%);
+     }
 
     section#login > div#foto{
         float: left;
@@ -46,7 +50,7 @@
         height: 100%;
     }
     div.campo > input{
-        width: calc(100% - 10%);
+       width: 90%;
         transform: translateY(-30%);
     }
 }
