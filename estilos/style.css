@@ -112,8 +112,8 @@ div.campo > input{
     border-radius: 8px;
     padding: 18px;
     background-color: #dac2f1;
-    width: calc(100% - 44px);
-    transform: translateY(-11px);
+    width: calc(100% - );
+    transform: translateY(-33%);
 }
 form .campo{
     background-color: #9328ff;
