@@ -25,6 +25,9 @@
     section#login{
         width: 970px;
     }
+    h1{
+        font-size: 40px;
+    }
     section#login > div#foto{
         float: right;
         width: 50%;
